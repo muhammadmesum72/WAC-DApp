@@ -1,0 +1,1 @@
+npm install  -D eslint eslint-config-react-app prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-sonarjs  eslint-plugin-unicorn  eslint-plugin-deprecate eslint-plugin-import eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks

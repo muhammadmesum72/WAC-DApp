@@ -1,0 +1,566 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_gwac",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_lwac",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_bwac",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_twac",
+				"type": "address"
+			}
+		],
+		"name": "setBaseAddresses",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_Owner",
+				"type": "address"
+			}
+		],
+		"name": "setOwner",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_vwac",
+				"type": "address"
+			}
+		],
+		"name": "setVialsAddress",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_vrnt",
+				"type": "address"
+			}
+		],
+		"name": "setViewRentingAddress",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "bioOfAllApes",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			},
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			},
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "bioOfBabyWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "bioOfFemaleWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "bioOfMaleWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "bwac",
+		"outputs": [
+			{
+				"internalType": "contract BabyApe",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getAllBWAC",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getAllGWAC",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getAllLWAC",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getUserAssetsData",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "balance",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "pending",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "pendingRent",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "greenVials",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "blueVials",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getUserBwacData",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "allBWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "incubatedBWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedBWAC",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getUserGwacData",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "allGWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedGWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "rentedGWAC",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getUserLwacData",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "allLWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedLWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "rentedLWAC",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_user",
+				"type": "address"
+			}
+		],
+		"name": "getUserNFTsData",
+		"outputs": [
+			{
+				"internalType": "uint256[]",
+				"name": "allGWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedGWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "rentedGWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "allLWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedLWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "rentedLWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "allBWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "incubatedBWAC",
+				"type": "uint256[]"
+			},
+			{
+				"internalType": "uint256[]",
+				"name": "stakedBWAC",
+				"type": "uint256[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "gwac",
+		"outputs": [
+			{
+				"internalType": "contract IApe",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "lwac",
+		"outputs": [
+			{
+				"internalType": "contract IApe",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "nameOfAllApes",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			},
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			},
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "nameOfBabyWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "nameOfFemaleWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_owner",
+				"type": "address"
+			}
+		],
+		"name": "nameOfMaleWallet",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "twac",
+		"outputs": [
+			{
+				"internalType": "contract IWac",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "vrnt",
+		"outputs": [
+			{
+				"internalType": "contract IVRnt",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "vwac",
+		"outputs": [
+			{
+				"internalType": "contract IVwac",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]

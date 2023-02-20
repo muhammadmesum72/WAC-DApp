@@ -1,0 +1,5 @@
+
+pnpm add @coinbase/wallet-sdk @emotion/react @emotion/styled @iconify/react @mui/icons-material @mui/lab @mui/material @mui/system @reduxjs/toolkit @walletconnect/web3-provider lodash notistack prop-types react react-dom react-helmet-async react-redux react-router-dom react-use-clipboard simplebar simplebar-react
+
+
+pnpm add rollup-plugin-polyfill-node ethers web3modal util @coinbase/wallet-sdk

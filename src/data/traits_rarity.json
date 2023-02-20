@@ -1,0 +1,642 @@
+[
+    {
+        'trait': 'Blue',
+        'type': 'Background',
+        'rarity': 5.5
+    },
+    {
+        'trait': 'Dark blue',
+        'type': 'Background',
+        'rarity': 6.9
+    },
+    {
+        'trait': 'Dark grey',
+        'type': 'Background',
+        'rarity': 5.9
+    },
+    {
+        'trait': 'Dark red',
+        'type': 'Background',
+        'rarity': 6.6
+    },
+    {
+        'trait': 'Fuchsia',
+        'type': 'Background',
+        'rarity': 6.4
+    },
+    {
+        'trait': 'Gold',
+        'type': 'Background',
+        'rarity': 0.8
+    },
+    {
+        'trait': 'Green',
+        'type': 'Background',
+        'rarity': 6.2
+    },
+    {
+        'trait': 'Grey',
+        'type': 'Background',
+        'rarity': 5.7
+    },
+    {
+        'trait': 'Light Blue',
+        'type': 'Background',
+        'rarity': 6.4
+    },
+    {
+        'trait': 'Light red',
+        'type': 'Background',
+        'rarity': 7.2
+    },
+    {
+        'trait': 'Mauve',
+        'type': 'Background',
+        'rarity': 6.4
+    },
+    {
+        'trait': 'Mint',
+        'type': 'Background',
+        'rarity': 6.2
+    },
+    {
+        'trait': 'Orange',
+        'type': 'Background',
+        'rarity': 5.8
+    },
+    {
+        'trait': 'Pink',
+        'type': 'Background',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Red',
+        'type': 'Background',
+        'rarity': 5.8
+    },
+    {
+        'trait': 'Silver',
+        'type': 'Background',
+        'rarity': 2.2
+    },
+    {
+        'trait': 'Sky',
+        'type': 'Background',
+        'rarity': 0.7
+    },
+    {
+        'trait': 'Starry night',
+        'type': 'Background',
+        'rarity': 1.2
+    },
+    {
+        'trait': 'Sunset',
+        'type': 'Background',
+        'rarity': 1.1
+    },
+    {
+        'trait': 'Yellow',
+        'type': 'Background',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Albino',
+        'type': 'Body',
+        'rarity': 0.7
+    },
+    {
+        'trait': 'Bronze',
+        'type': 'Body',
+        'rarity': 3.2
+    },
+    {
+        'trait': 'Brown',
+        'type': 'Body',
+        'rarity': 6.7
+    },
+    {
+        'trait': 'Diamond',
+        'type': 'Body',
+        'rarity': 0.9
+    },
+    {
+        'trait': 'Gold',
+        'type': 'Body',
+        'rarity': 1.9
+    },
+    {
+        'trait': 'Green',
+        'type': 'Body',
+        'rarity': 6.8
+    },
+    {
+        'trait': 'Light blue',
+        'type': 'Body',
+        'rarity': 7.4
+    },
+    {
+        'trait': 'Light brown',
+        'type': 'Body',
+        'rarity': 6.8
+    },
+    {
+        'trait': 'Light green',
+        'type': 'Body',
+        'rarity': 6.6
+    },
+    {
+        'trait': 'Light orange',
+        'type': 'Body',
+        'rarity': 6.7
+    },
+    {
+        'trait': 'Light violet',
+        'type': 'Body',
+        'rarity': 6.5
+    },
+    {
+        'trait': 'Mahogany',
+        'type': 'Body',
+        'rarity': 6.6
+    },
+    {
+        'trait': 'Mint',
+        'type': 'Body',
+        'rarity': 7.5
+    },
+    {
+        'trait': 'Orange',
+        'type': 'Body',
+        'rarity': 6.3
+    },
+    {
+        'trait': 'Platinum',
+        'type': 'Body',
+        'rarity': 1.4
+    },
+    {
+        'trait': 'Purple',
+        'type': 'Body',
+        'rarity': 7.8
+    },
+    {
+        'trait': 'Radioactive3',
+        'type': 'Body',
+        'rarity': 0.6
+    },
+    {
+        'trait': 'Red',
+        'type': 'Body',
+        'rarity': 6.5
+    },
+    {
+        'trait': 'Violet',
+        'type': 'Body',
+        'rarity': 7.6
+    },
+    {
+        'trait': 'Volcanic rock',
+        'type': 'Body',
+        'rarity': 0.6
+    },
+    {
+        'trait': 'Bloody eye',
+        'type': 'Eyes',
+        'rarity': 1.5
+    },
+    {
+        'trait': 'Bored eye',
+        'type': 'Eyes',
+        'rarity': 10.4
+    },
+    {
+        'trait': 'Closed eye',
+        'type': 'Eyes',
+        'rarity': 12.1
+    },
+    {
+        'trait': 'Crossed eye',
+        'type': 'Eyes',
+        'rarity': 3.0
+    },
+    {
+        'trait': 'Cute eye',
+        'type': 'Eyes',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Frightened eye',
+        'type': 'Eyes',
+        'rarity': 1.6
+    },
+    {
+        'trait': 'Glowing gold eye',
+        'type': 'Eyes',
+        'rarity': 1.5
+    },
+    {
+        'trait': 'High eye',
+        'type': 'Eyes',
+        'rarity': 7.3
+    },
+    {
+        'trait': 'Light blue eye',
+        'type': 'Eyes',
+        'rarity': 16.7
+    },
+    {
+        'trait': 'Red eye',
+        'type': 'Eyes',
+        'rarity': 3.3
+    },
+    {
+        'trait': 'Shocked',
+        'type': 'Eyes',
+        'rarity': 1.3
+    },
+    {
+        'trait': 'Side looking eye',
+        'type': 'Eyes',
+        'rarity': 4.0
+    },
+    {
+        'trait': 'Vortex eye',
+        'type': 'Eyes',
+        'rarity': 1.5
+    },
+    {
+        'trait': 'Yellow eyes',
+        'type': 'Eyes',
+        'rarity': 14.9
+    },
+    {
+        'trait': 'purple eye',
+        'type': 'Eyes',
+        'rarity': 14.3
+    },
+    {
+        'trait': 'Alpine hat',
+        'type': 'Head',
+        'rarity': 3.2
+    },
+    {
+        'trait': 'Birthday hat',
+        'type': 'Head',
+        'rarity': 4.3
+    },
+    {
+        'trait': 'Blue beanie',
+        'type': 'Head',
+        'rarity': 6.6
+    },
+    {
+        'trait': 'Blue tennis hat',
+        'type': 'Head',
+        'rarity': 6.4
+    },
+    {
+        'trait': 'Cowboy hat',
+        'type': 'Head',
+        'rarity': 1.8
+    },
+    {
+        'trait': 'Crown',
+        'type': 'Head',
+        'rarity': 0.8
+    },
+    {
+        'trait': 'Dark grey bandana',
+        'type': 'Head',
+        'rarity': 6.6
+    },
+    {
+        'trait': 'Fishing hat',
+        'type': 'Head',
+        'rarity': 7.5
+    },
+    {
+        'trait': 'Flat cap',
+        'type': 'Head',
+        'rarity': 2.1
+    },
+    {
+        'trait': 'Green hat',
+        'type': 'Head',
+        'rarity': 7.2
+    },
+    {
+        'trait': 'Green tennis hat',
+        'type': 'Head',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Grey beanie',
+        'type': 'Head',
+        'rarity': 4.5
+    },
+    {
+        'trait': 'Halo',
+        'type': 'Head',
+        'rarity': 1.2
+    },
+    {
+        'trait': 'Headphones',
+        'type': 'Head',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Military hat',
+        'type': 'Head',
+        'rarity': 2.0
+    },
+    {
+        'trait': 'None',
+        'type': 'Head',
+        'rarity': 11.1
+    },
+    {
+        'trait': 'Oriental hat',
+        'type': 'Head',
+        'rarity': 0.7
+    },
+    {
+        'trait': 'Police cap',
+        'type': 'Head',
+        'rarity': 4.5
+    },
+    {
+        'trait': 'Red hat',
+        'type': 'Head',
+        'rarity': 8.2
+    },
+    {
+        'trait': 'White bandana',
+        'type': 'Head',
+        'rarity': 3.3
+    },
+    {
+        'trait': 'beige beanie',
+        'type': 'Head',
+        'rarity': 5.3
+    },
+    {
+        'trait': 'Blood',
+        'type': 'Mouth',
+        'rarity': 6.0
+    },
+    {
+        'trait': 'Bone',
+        'type': 'Mouth',
+        'rarity': 6.9
+    },
+    {
+        'trait': 'Cigar',
+        'type': 'Mouth',
+        'rarity': 8.4
+    },
+    {
+        'trait': 'Cigarette',
+        'type': 'Mouth',
+        'rarity': 9.1
+    },
+    {
+        'trait': 'Diamond smile',
+        'type': 'Mouth',
+        'rarity': 1.0
+    },
+    {
+        'trait': 'Golden smile',
+        'type': 'Mouth',
+        'rarity': 1.9
+    },
+    {
+        'trait': 'Golden tooth',
+        'type': 'Mouth',
+        'rarity': 2.7
+    },
+    {
+        'trait': 'Golden whistle',
+        'type': 'Mouth',
+        'rarity': 0.9
+    },
+    {
+        'trait': 'Gum',
+        'type': 'Mouth',
+        'rarity': 4.9
+    },
+    {
+        'trait': 'Nose ring',
+        'type': 'Mouth',
+        'rarity': 6.4
+    },
+    {
+        'trait': 'Pill',
+        'type': 'Mouth',
+        'rarity': 5.9
+    },
+    {
+        'trait': 'Rainbow',
+        'type': 'Mouth',
+        'rarity': 0.9
+    },
+    {
+        'trait': 'Rat tail',
+        'type': 'Mouth',
+        'rarity': 6.1
+    },
+    {
+        'trait': 'Silver whistle',
+        'type': 'Mouth',
+        'rarity': 2.2
+    },
+    {
+        'trait': 'Spliff',
+        'type': 'Mouth',
+        'rarity': 5.2
+    },
+    {
+        'trait': 'Steak',
+        'type': 'Mouth',
+        'rarity': 6.3
+    },
+    {
+        'trait': 'Steal whistle',
+        'type': 'Mouth',
+        'rarity': 8.1
+    },
+    {
+        'trait': 'Tongue',
+        'type': 'Mouth',
+        'rarity': 7.4
+    },
+    {
+        'trait': 'Tooth pick',
+        'type': 'Mouth',
+        'rarity': 2.4
+    },
+    {
+        'trait': 'smile',
+        'type': 'Mouth',
+        'rarity': 6.5
+    },
+    {
+        'trait': 'Beige leather jacket',
+        'type': 'Clothes',
+        'rarity': 2.2
+    },
+    {
+        'trait': 'Black sweatshirt',
+        'type': 'Clothes',
+        'rarity': 8.7
+    },
+    {
+        'trait': 'Blue sweatshirt',
+        'type': 'Clothes',
+        'rarity': 4.2
+    },
+    {
+        'trait': 'Blue tie',
+        'type': 'Clothes',
+        'rarity': 5.4
+    },
+    {
+        'trait': 'Brown leather jacket',
+        'type': 'Clothes',
+        'rarity': 2.7
+    },
+    {
+        'trait': 'Brown outfit',
+        'type': 'Clothes',
+        'rarity': 7.2
+    },
+    {
+        'trait': 'Doctor',
+        'type': 'Clothes',
+        'rarity': 0.8
+    },
+    {
+        'trait': 'Fur jacket',
+        'type': 'Clothes',
+        'rarity': 2.9
+    },
+    {
+        'trait': 'Golden chain',
+        'type': 'Clothes',
+        'rarity': 0.9
+    },
+    {
+        'trait': 'Green outfit',
+        'type': 'Clothes',
+        'rarity': 7.5
+    },
+    {
+        'trait': 'Light blue outfit',
+        'type': 'Clothes',
+        'rarity': 8.0
+    },
+    {
+        'trait': 'None',
+        'type': 'Clothes',
+        'rarity': 9.2
+    },
+    {
+        'trait': 'Orange sweatshirt',
+        'type': 'Clothes',
+        'rarity': 1.6
+    },
+    {
+        'trait': 'Platinum chain',
+        'type': 'Clothes',
+        'rarity': 2.2
+    },
+    {
+        'trait': 'Purple towel',
+        'type': 'Clothes',
+        'rarity': 7.2
+    },
+    {
+        'trait': 'Red outfit',
+        'type': 'Clothes',
+        'rarity': 7.6
+    },
+    {
+        'trait': 'Red tie',
+        'type': 'Clothes',
+        'rarity': 6.2
+    },
+    {
+        'trait': 'Towel',
+        'type': 'Clothes',
+        'rarity': 7.5
+    },
+    {
+        'trait': 'Trashed sweatshirt',
+        'type': 'Clothes',
+        'rarity': 2.8
+    },
+    {
+        'trait': 'White leather jacket',
+        'type': 'Clothes',
+        'rarity': 1.0
+    },
+    {
+        'trait': 'White sweatshirt',
+        'type': 'Clothes',
+        'rarity': 3.4
+    },
+    {
+        'trait': 'Coins',
+        'type': 'Eyes accessory',
+        'rarity': 11.8
+    },
+    {
+        'trait': 'Colorful googles',
+        'type': 'Eyes accessory',
+        'rarity': 14.6
+    },
+    {
+        'trait': 'Dark goggles',
+        'type': 'Eyes accessory',
+        'rarity': 5.8
+    },
+    {
+        'trait': 'Grid glasses fuchsia',
+        'type': 'Eyes accessory',
+        'rarity': 5.9
+    },
+    {
+        'trait': 'Grid glasses gold',
+        'type': 'Eyes accessory',
+        'rarity': 1.8
+    },
+    {
+        'trait': 'Grid glasses silver',
+        'type': 'Eyes accessory',
+        'rarity': 4.4
+    },
+    {
+        'trait': 'Laser goggles gold',
+        'type': 'Eyes accessory',
+        'rarity': 2.1
+    },
+    {
+        'trait': 'Laser goggles silver',
+        'type': 'Eyes accessory',
+        'rarity': 3.7
+    },
+    {
+        'trait': 'Laser goggles steel',
+        'type': 'Eyes accessory',
+        'rarity': 8.2
+    },
+    {
+        'trait': 'None',
+        'type': 'Eyes accessory',
+        'rarity': 39.6
+    },
+    {
+        'trait': 'Tiny glasses',
+        'type': 'Eyes accessory',
+        'rarity': 1.6
+    }
+];
